@@ -1,1 +1,1 @@
-requests
+mcp-simple-pubmed
