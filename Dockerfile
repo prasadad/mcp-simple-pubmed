@@ -3,7 +3,7 @@
 FROM python:3.10-slim
 
 # Set environment variables for email and optional API key
-ENV PUBMED_EMAIL=your-email@example.com
+ENV PUBMED_EMAIL=adprasad.amballa@gmail.com
 # ENV PUBMED_API_KEY=your-api-key  # Uncomment and set if you have an API key
 
 # Set the working directory
